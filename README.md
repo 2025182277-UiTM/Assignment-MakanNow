@@ -3,7 +3,6 @@
 A front-end prototype for **MakanNow**, an SME that makes retort-pouch ready-to-eat meals, cooking pastes, and sambal (24-month shelf life). It has two roles: the owner manages stock and orders, and customers browse live stock and place or cancel orders.
 Built for **IMS566 Advanced Web Design Development and Content Management** (Individual Project).
 
-- **Live site:** https://your-username.github.io/makannow/
 - **Repository:** https://github.com/your-username/makannow
 
 ## How to test login
